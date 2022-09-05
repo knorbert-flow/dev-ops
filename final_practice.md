@@ -43,7 +43,7 @@
 >  *Nano is most likely already installed. There is no need to delete and install it again, we just need the output of what the package manager returns with after attempting the install.* 
 
 - Save the command line history to *my_history.txt* which should be located in the *tree* directory
-- Create a new file named *everything* in your current directory which contains everything ( **also should be done in one line** ) from the following files:
+- Create a new file named *everything* in your current directory which contains everything ( **also should be done with one command** ) from the following files:
   - copy_of_cron.txt
   - my_history.txt
   - truth.txt
