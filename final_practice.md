@@ -38,7 +38,7 @@
 - Save the string *"I am having so much fun using Linux"* into a new file called *truth.txt* which should be located in *tree/branch/leaf* **with one command**
 - Save the output of the **ls -l** command into a file called *list_of_directories.txt* which should be located in the *continent/country* directory
 - Edit the *list_of_directories.txt* file with **nano**, and add your name in a new line at the end of the file 
-- Attempt to install the **nano** package and append the output to the end of the copy_of_list.txt
+- Attempt to install the **nano** package and append the output to the end of the *list_of_directories.txt*
 
 >  *Nano is most likely already installed. There is no need to delete and install it again, we just need the output of what the package manager returns with after attempting the install.* 
 
