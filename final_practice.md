@@ -21,7 +21,7 @@
   - organism/molecule/atom
 - Modify the permissions to the directories in the following way:
   - tree:
-    - user: read and write access
+    - user: every permission
     - group: read access only
     - others: no access
   - continent:
