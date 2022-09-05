@@ -56,5 +56,5 @@
 - Disconnect from the **SSH** session
 - Reconnect to the Virtual Machine using **SFTP**
 - Download everything.txt to your local machine
-- Send me  the file you just downloaded
+- Send me  the file you just downloaded **on Microsoft Teams**
 - Close the **SFTP** connection
