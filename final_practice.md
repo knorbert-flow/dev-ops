@@ -47,7 +47,7 @@
   - copy_of_cron.txt
   - my_history.txt
   - truth.txt
-  - cron.txt
+  - list_of_directories.txt
 
 ----
 
