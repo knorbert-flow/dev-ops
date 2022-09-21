@@ -14,10 +14,9 @@
 	- Hair color
 	- List of movies they appeared in ( only the name of the movie )
 - Save this list into the following file formats:
-	- XML
 	- JSON
 	- CSV
-	With the name: starwars_people.xml/json/csv
+	With the name: starwars_people.json/csv
 - Compress all these files into people_compressed.zip
 - Send me the compressed archive in a private message
 
