@@ -1,8 +1,11 @@
+# Python 2 - Final Practice
 
-**SETUP**
+### **SETUP**
 - Using the Star Wars API ***( SWAPI )*** download all characters which appeared in the first film ***( films/1 , "A New Hope" )***  .
 
-**PART 1**
+---
+
+### **PART 1**
 - Save the characters into an array, with only the following properties:
 	- Name
 	- Gender
@@ -18,7 +21,9 @@
 - Compress all these files into people_compressed.zip
 - Send me the compressed archive in a private message
 
-**PART 2**
+---
+
+### **PART 2**
 - In a separate python file read all people from starwars_people.json
 - Upload people who were at least in 3 films to the /main_characters endpoint on crudcrud
 - Change Darh Vader's name to Anakin Skywalker on the /main_characters endpoint
